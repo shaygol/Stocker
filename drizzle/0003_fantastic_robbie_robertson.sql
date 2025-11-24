@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `location` varchar(255);
