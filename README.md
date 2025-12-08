@@ -1,4 +1,4 @@
-# The Alpha Scanner
+# The Alpha Scanner Shoki and yoli
 
 An institutional-grade, autonomous trading system designed to generate statistically proven "alpha" (trading edge) that survives market friction.
 
